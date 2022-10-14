@@ -11,6 +11,10 @@ Refratored page to increase site accessibility, eliminate repeated code, through
 - Used classes to eliminate repetitive code
 - Established a concise, descriptive title to increase site visibility in search engines
 
+## Visuals
+
+The website should appear as such when opened in Google Chrome:
+
 ## Usage
 
 Refactoring the html and css to ensure dry is applied, the site structure flows, and alts were applied to images.
