@@ -83,11 +83,13 @@ p {
   background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/*
+Changed class in html to benefit to facilitate DRY in CSS   
 .benefit-brand {
   margin-bottom: 32px;
   color: #ffffff;
@@ -97,7 +99,7 @@ p {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+*/
 .benefit h3 {
   margin-bottom: 10px;
   text-align: center;
