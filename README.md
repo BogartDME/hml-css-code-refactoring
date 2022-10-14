@@ -15,6 +15,8 @@ Refratored page to increase site accessibility, eliminate repeated code, through
 
 The website should appear as such when opened in Google Chrome:
 
+![use screenshot of Heriseon website](<./assets/images/Heriseon%20Screenshot%20(CH1).png>)
+
 ## Usage
 
 Refactoring the html and css to ensure dry is applied, the site structure flows, and alts were applied to images.
